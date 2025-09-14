@@ -14,7 +14,7 @@
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ASIFXQUEEN/QUEENXSPAM2.0)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ASIFXQUEEN903/XQUEEN-SPAM-BOT)
 
 </details>
 
